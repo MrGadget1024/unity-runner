@@ -1,7 +1,4 @@
 # Unity - Runner
-![CI](https://github.com/MirrorNetworking/unity-runner/workflows/CI/badge.svg)](https://github.com/MirrorNetworking/unity-runner/actions?query=workflow%3ACI)
-
----
 
 GitHub Action to 
 [run unity](https://github.com/marketplace/actions/unity-runner) 
