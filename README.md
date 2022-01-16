@@ -1,5 +1,5 @@
 # Unity - Runner
-[![CI](https://github.com/MirrorNetworking/unity-runner/workflows/CI/badge.svg)](https://github.com/MirrorNetworking/unity-runner/actions?query=workflow%3ACI)
+![CI](https://github.com/MirrorNetworking/unity-runner/workflows/CI/badge.svg)](https://github.com/MirrorNetworking/unity-runner/actions?query=workflow%3ACI)
 
 ---
 
