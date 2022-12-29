@@ -27,7 +27,10 @@ jobs:
     name: Test edit mode 📝
     runs-on: ubuntu-latest
     env:
-      UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}   
+      UNITY_LICENSE: ${{ secrets.UNITY_LICENSE_2019 }}   
+      #UNITY_LICENSE: ${{ secrets.UNITY_LICENSE_2020 }}   
+      #UNITY_LICENSE: ${{ secrets.UNITY_LICENSE_2021}}   
+      #UNITY_LICENSE: ${{ secrets.UNITY_LICENSE_2022 }}   
     steps:
       # Checkout repository (required to test local actions)
       - name: Checkout repository
